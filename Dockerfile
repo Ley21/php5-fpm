@@ -1,4 +1,4 @@
-FROM sameersbn/ubuntu:14.04.20150816
+FROM debian
 MAINTAINER sameer@damagehead.com
 
 ENV PHP_FPM_USER=www-data
